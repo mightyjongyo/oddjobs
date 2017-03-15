@@ -1,0 +1,9 @@
+Implement atoi. E.g. given a string, return the int representation.
+
+"123" -> 123
+"0123" -> 123
+"-12" -> -12
+
+Phase 2: Use your implementation of atoi to implement atof (string to float)
+
+"123.456" -> 123.456

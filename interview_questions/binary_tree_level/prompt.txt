@@ -1,0 +1,16 @@
+Given a binary tree and an integer N, print all  nodes on level N.
+
+For example, given:
+
+             0
+            / \
+           1  2
+          /\ / \
+         3 4 5 6
+
+and N = 1
+
+Should print:
+
+1 2
+
